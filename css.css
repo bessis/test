@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+body{
+    font-size: 62px;
+    color: red;
+    text-align: center;
+    line-height: 3;
+}
